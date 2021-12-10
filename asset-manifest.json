@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://arjun-kumar-nit.github.io/csb-ymnls/static/css/main.b4125a55.chunk.css",
+    "main.js": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/main.37eddb3c.chunk.js",
+    "main.js.map": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/main.37eddb3c.chunk.js.map",
+    "runtime-main.js": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/runtime-main.c17cbfac.js",
+    "runtime-main.js.map": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/runtime-main.c17cbfac.js.map",
+    "static/js/2.bde36010.chunk.js": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/2.bde36010.chunk.js",
+    "static/js/2.bde36010.chunk.js.map": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/2.bde36010.chunk.js.map",
+    "index.html": "https://arjun-kumar-nit.github.io/csb-ymnls/index.html",
+    "static/css/main.b4125a55.chunk.css.map": "https://arjun-kumar-nit.github.io/csb-ymnls/static/css/main.b4125a55.chunk.css.map",
+    "static/js/2.bde36010.chunk.js.LICENSE.txt": "https://arjun-kumar-nit.github.io/csb-ymnls/static/js/2.bde36010.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c17cbfac.js",
+    "static/js/2.bde36010.chunk.js",
+    "static/css/main.b4125a55.chunk.css",
+    "static/js/main.37eddb3c.chunk.js"
+  ]
+}
